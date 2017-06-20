@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+A discussion of classic modern.
